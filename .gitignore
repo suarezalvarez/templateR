@@ -62,3 +62,7 @@ figures/*
 
 # vignettes
 !vignettes/.gitkeep
+
+# scripts
+!scripts/.gitkeep
+
