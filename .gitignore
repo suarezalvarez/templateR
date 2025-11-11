@@ -49,14 +49,13 @@ po/*~
 rsconnect/
 
 # data
-
 data/*
+!data/.gitkeep
 
-# results 
-
+# results
 results/*
+!results/.gitkeep
 
 # figures
-
 figures/*
-
+!figures/.gitkeep
